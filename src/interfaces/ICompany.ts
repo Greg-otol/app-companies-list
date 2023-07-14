@@ -1,4 +1,4 @@
-export interface ICompanies {
+export interface ICompany {
   id: string;
   codigo: string;
   razaoSocial: string;
