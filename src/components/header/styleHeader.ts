@@ -55,9 +55,9 @@ export const Button = styled.button`
 export const Input = styled.input`
   width: 100%;
   height: 40px;
-  padding-left: 10px;
   background-color: #3f3f3f;
   color: #ffffff;
+  text-align: center;
   border: none;
   border-radius: 5px;
   cursor: pointer;
