@@ -38,7 +38,7 @@ Assuming that NodeJS is installed on the machine, run the command:
 
 ## Mobile page:
 
-![mobile](https://github.com/Greg-otol/app-companies-list/assets/97900313/91e972cd-5808-4689-8bf6-f912b51926e4)
+![mobile](https://github.com/Greg-otol/app-companies-list/assets/97900313/4dc14aae-4832-4e84-8491-adb37f25f7f2)
 
 ## Contact
 
